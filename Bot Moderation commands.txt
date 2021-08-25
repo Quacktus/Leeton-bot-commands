@@ -1,0 +1,25 @@
+>BOT MODERATION
+  > <prefix>mute [mention member] [reason]
+    :Mutes the specified user
+
+  > <prefix>unmute [mention member]
+    :Unmutes the specified user
+
+  > <prefix>purge [integer number of lines to delete] *enter just the function to delete all the lines in the channel
+    :Clears message
+
+  > <prefix>kick [member mention]
+    :Kicks a specified member
+
+  > <prefix>ban [member mention] [reason]
+    :Bans a specified member
+
+  > <prefix>unban [member mention]
+    :Unbans a specified member
+    :Will automatically send a dm to the specified user to join again with join invite
+
+  > <prefix>ui [member mention]
+    :Provides the information about the specified user
+
+  > <prefix>gi
+    :Sends the server information

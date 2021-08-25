@@ -1,0 +1,18 @@
+> FUN
+  > <prefix>tictactoe (player 1 member mention) (player 2 member mention)
+    :Creates a new game of tic tac toe with the two mentioned users
+
+  > <prefix>place (integer position number inbetween 1 to 9 inclusive)
+    :Marks the position with your sign
+
+  > <prefix>ball (question)
+    :Asks the Magic 8 ball a question which then sends a reply
+ 
+  > <prefix>q
+    :Sends a Quote
+
+  > <prefix>fact
+    : Sends a fact
+
+  > <prefix>meme 
+    :Sends a meme

@@ -1,0 +1,7 @@
+>BOT UTILITY COMMANDS
+
+  > <prefix>changepf (new prefix)
+    :Changes the server prefix to the specified one
+
+  > <prefix>viewpf
+    :Sends the currently assigned server prefix

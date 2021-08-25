@@ -1,0 +1,12 @@
+>BOT INFO
+  > <prefix>about
+    :Sends a embed containing all the information of the Bot
+
+  > <prefix>ltc
+    :Sends all the Bot latency info  
+
+  > <prefix>invites
+    :Sends the invite and bot help server join link
+
+  > <prefix>bgi
+    :Sends the bot guild information

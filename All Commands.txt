@@ -1,0 +1,33 @@
+All bot functions
+
+ 
+>BOT SETTINGS
+  > <prefix>about
+  > <prefix>ltc
+  > <prefix>invites
+  > <prefix>bgi
+
+>MODERATION
+  > <prefix>mute (mention member) (reason)
+  > <prefix>unmute (mention member)
+  > <prefix>purge (integer number of lines to delete) *enter just the function to delete all the lines in the channel
+  > <prefix>kick (member mention)
+  > <prefix>ban (member mention) (reason)
+  > <prefix>unban (member mention)
+  > <prefix>ui (member mention)
+  > <prefix>gi
+
+> FUN
+  > <prefix>tictactoe (player 1 member mention) (player 2 member mention)
+  > <prefix>place (integer position number inbetween 1 to 9 inclusive)
+  > <prefix>ball (question)
+  > <prefix>q
+  > <prefix>fact
+  > <prefix> 
+
+
+
+
+>UTILITIES
+  > <prefix>changepf (new prefix)
+  > <prefix>viewpf
